@@ -1,0 +1,10 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+  font-family: "Segoe UI Variable", cursive;
+  font-size: 20px;
+}
+h1 {
+  color: crimson;
+  font-family: "Segoe UI Variable", cursive;
+}
